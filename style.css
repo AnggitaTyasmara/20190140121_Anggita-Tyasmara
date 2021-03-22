@@ -20,6 +20,9 @@ body, h1, h2, td, p, a {
 
 @media only screen and (max-width:600px) {
     /*for Phone*/
+    .pribadi{
+        width: 100%;
+    }
     .icon {
         width: 80%;
     }
