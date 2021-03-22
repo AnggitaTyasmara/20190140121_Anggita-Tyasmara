@@ -1,6 +1,20 @@
 body {
+    padding: 25px;
     background-image: url('./background.JPG');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+body, h1, h2, td, p, a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.icon {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 800px;
+    color: black;
+    margin: 20px auto;
+    padding : 15px;
 }
