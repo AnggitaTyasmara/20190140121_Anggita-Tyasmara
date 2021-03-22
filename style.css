@@ -19,8 +19,8 @@ body, h1, h2, td, p, a {
 }
 .icon1 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 50%;
+    margin-right: 50%;
 }
 
 @media only screen and (max-width:600px) {
