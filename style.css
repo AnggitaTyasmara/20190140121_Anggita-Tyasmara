@@ -21,7 +21,7 @@ body, h1, h2, td, p, a {
 @media only screen and (max-width:600px) {
     /*for Phone*/
     .tabel{
-        width: 80%;
+        width: 60%;
     }
     .icon {
         width: 80%;
